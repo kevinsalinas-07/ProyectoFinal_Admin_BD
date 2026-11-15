@@ -106,7 +106,7 @@ def main():
     fake = Faker("es_MX")
     n = args.socios
 
-    # ------------------------------------------------------------------
+    # -------------------------------------------------------------------
     # 1. Catálogos pequeños
     # ------------------------------------------------------------------
     df_esp = pd.DataFrame({"id_especialidad": range(1, len(ESPECIALIDADES) + 1), "nombre": ESPECIALIDADES})

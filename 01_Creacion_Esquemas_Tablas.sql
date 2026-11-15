@@ -1,4 +1,4 @@
-/* ---------------------------------------------------------------------
+/* ----------------------------------------------------------------------
    Proyecto de Cátedra - Administración de Bases de Datos (SQL Server)
    Escenario: Sistema de Reservas de Gimnasio
    Script 01: creación de la base de datos, esquemas y tablas
